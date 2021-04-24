@@ -12,7 +12,8 @@
 </div>
 
 ```bash
-bash:~/Epic-C$ ./Tamrin2                                      
+bash:~/Epic-C$ ./Tamrin2
+                                      
 5 is integer
 3.141529 is float
 Salam git is char
