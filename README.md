@@ -10,6 +10,10 @@
 [۲- تمرین دوم](https://github.com/armixz/Epic-C/tree/main/Tamrin2)<br />
 
 
+## لینک آموزش تصویری
+
+[یوتیوب - YouTube](https://youtube.com/playlist?list=PL1afAhuMIDizNFSCR_YzyphI_FZT8dm8o)<br />
+
 ## کپی رایت
 
 این مجموعه برگرفته از ریپوی 
