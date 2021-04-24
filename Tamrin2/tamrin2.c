@@ -17,5 +17,5 @@ int main(){
 	printf("%f is float\n", b);
 	printf("%s is char\n", c);
 
-	return 0;
+	return 0; //return True
 }
