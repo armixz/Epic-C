@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 ## تمرین اول
 
 جمله ی "Salam git" را چاپ کنید
@@ -8,3 +10,5 @@
 bash:~/Epic-C$ ./Tamrin1                                        
 Salam git
 ```
+
+</div>
