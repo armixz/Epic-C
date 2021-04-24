@@ -7,6 +7,7 @@
 ## لیست تمرین ها
 
 [۱- تمرین اول](https://github.com/armixz/Epic-C/tree/main/Tamrin1)
+[۲- تمرین دوم](https://github.com/armixz/Epic-C/tree/main/Tamrin2)
 
 
 ## کپی رایت
