@@ -15,7 +15,9 @@
 
 ```bash
 bash:~/Epic-C$ ./Tamrin3
-
+FIRST: armin
+LAST: xz
+Salam armin xz.
 ```
 
 
