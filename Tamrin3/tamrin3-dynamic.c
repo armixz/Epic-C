@@ -17,7 +17,6 @@ int main(){
 	scanf("%ms", &first); //Read formatted data from stdin 
 	
 	
-
 	printf("LAST:"); //second promp
 	scanf("%ms", &last); //Read last name
 
