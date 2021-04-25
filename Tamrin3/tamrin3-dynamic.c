@@ -11,7 +11,7 @@ int main(){
 	
 	//int scanf ( const char * format, ... );
 	//https://www.cplusplus.com/reference/cstdio/scanf/
-	scanf("%ms", &first); //Read formatted data from stdin (%p: pointer address, &first: stored value)
+	scanf("%ms", &first); //Read formatted data from stdin (%p: pointer address, &first: store address)
 	
 
 	printf("LAST:"); //second promp
