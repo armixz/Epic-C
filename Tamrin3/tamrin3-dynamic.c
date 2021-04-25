@@ -16,7 +16,6 @@ int main(){
 	//https://www.cplusplus.com/reference/cstdio/scanf/
 	scanf("%ms", &first); //Read formatted data from stdin 
 	
-	
 	printf("LAST:"); //second promp
 	scanf("%ms", &last); //Read last name
 
