@@ -22,8 +22,8 @@ int main(){
 	//third prompt
 	printf("Salam %s %s.\n", first, last);
 
-	free(first);
-	free(last);
+	free(first); //The caller must free()
+	free(last);  //The caller must free()
 
 	return 0;
 }
