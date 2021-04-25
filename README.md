@@ -9,6 +9,7 @@
 [۱- تمرین اول](https://github.com/armixz/Epic-C/tree/main/Tamrin1)<br />
 [۲- تمرین دوم](https://github.com/armixz/Epic-C/tree/main/Tamrin2)<br />
 [۳- تمرین سوم](https://github.com/armixz/Epic-C/tree/main/Tamrin3)<br />
+[۴- تمرین چهارم](https://github.com/armixz/Epic-C/tree/main/Tamrin4)<br />
 
 ## آموزش تصویری
 
