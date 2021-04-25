@@ -7,7 +7,7 @@ int main(){
 	char *first;
 	char *last;
 
-	printf("FIRST:"); //first promp
+	printf("FIRST:"); //first prompt
 	
 	//int scanf ( const char * format, ... );
 	//(%ms: To use the dynamic allocation conversion specifier. The caller must free() the returned string)
@@ -16,10 +16,10 @@ int main(){
 	//https://www.cplusplus.com/reference/cstdio/scanf/
 	scanf("%ms", &first); //Read formatted data from stdin 
 	
-	printf("LAST:"); //second promp
+	printf("LAST:"); //second prompt
 	scanf("%ms", &last); //Read last name
 
-	//third promp
+	//third prompt
 	printf("Salam %s %s.\n", first, last);
 
 	free(first);
