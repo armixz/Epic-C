@@ -10,8 +10,12 @@ int main(){
 	printf("FIRST:"); //first promp
 	
 	//int scanf ( const char * format, ... );
+	//(%ms: To use the dynamic allocation conversion specifier. The caller must free() the returned string)
+	//(&first: store address)
+	//https://man7.org/linux/man-pages/man3/scanf.3.html
 	//https://www.cplusplus.com/reference/cstdio/scanf/
-	scanf("%ms", &first); //Read formatted data from stdin (%p: pointer address, &first: store address)
+	scanf("%ms", &first); //Read formatted data from stdin 
+	
 	
 
 	printf("LAST:"); //second promp
