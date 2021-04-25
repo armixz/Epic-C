@@ -11,7 +11,7 @@ int main(){
 	
 	//int scanf ( const char * format, ... );
 	//(%ms: To use the dynamic allocation conversion specifier. The caller must free() the returned string)
-	//(&first: store address)
+	//(&first: store address where save input)
 	//https://man7.org/linux/man-pages/man3/scanf.3.html
 	//https://www.cplusplus.com/reference/cstdio/scanf/
 	scanf("%ms", &first); //Read formatted data from stdin 
