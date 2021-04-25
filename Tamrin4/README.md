@@ -19,7 +19,6 @@
 bash:~/Epic-C$ ./sTamrin4
 Area is 478.145386
 ```
-<br />
 
 ```bash
 bash:~/Epic-C$ ./dTamrin4
