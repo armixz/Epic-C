@@ -23,7 +23,7 @@ Area is 478.145386
 
 ```bash
 bash:~/Epic-C$ ./dTamrin4
-Enter Radius: 12.34
+Enter Radius:12.34
 Area is 478.145386
 ```
 
