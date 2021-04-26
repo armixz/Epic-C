@@ -1,4 +1,4 @@
-//printf()
+//printf() and scanf()
 #include <stdio.h>
 
 //define a value for PIE
@@ -22,7 +22,7 @@ int main(){
 	//area calculating
 	area = (radius * radius) * PIE;
 
-	//print result
+	//print result (area)
 	printf("Area is %f\n", area);
 
 	//return True
